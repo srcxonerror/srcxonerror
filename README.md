@@ -1,6 +1,6 @@
 # My skills
 
-# Operative system
+# OS
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://www.kernel.org/)
 
 # Languages
