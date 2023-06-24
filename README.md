@@ -1,4 +1,4 @@
-#                             My skills
+# My skills
 
 # Operative systems
 [![My Skills](https://skillicons.dev/icons?i=linux,win)](https://skillicons.dev)
