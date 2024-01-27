@@ -10,6 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![My Skills](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/index.html)
 
 
 
