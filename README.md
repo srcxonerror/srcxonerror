@@ -6,8 +6,8 @@
 # Languages
 [![My Skills](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 [![My Skills](https://skillicons.dev/icons?i=html)](https://html-lang.org/)
-[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![My Skills](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
 [![My Skills](https://skillicons.dev/icons?i=c)](https://www.iso.org/standard/74528.html)
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
