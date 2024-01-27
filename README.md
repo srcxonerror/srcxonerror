@@ -2,6 +2,7 @@
 
 # OS
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://www.kernel.org/)
+[![My Skills](https://skillicons.dev/icons?i=windows)]([https://www.kernel.org/](https://www.microsoft.com/en-us/windows))
 
 # Languages
 [![My Skills](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
